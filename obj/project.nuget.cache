@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hqMh+/gg1XxvHn44rfS5/7CWKBxxL8CWYMgyBwz5uaSHzEcabRqNJByH2QByO//p/yqhIvuYJNOz/kwJ+xbW1w==",
+  "dgSpecHash": "xgQ7nk5or2gaOi2HK4jmmU5Bv5V24d3raL9Efkq40RF7o2Nv1NKAtrg50isJy3mUWZFpALGWQ5nqhFpIQRA0tA==",
   "success": true,
-  "projectFilePath": "/Users/nhannguyen/Desktop/ninjaWizard/ninjaWizard.csproj",
+  "projectFilePath": "/Users/nhannguyen/Desktop/CSharpWizardNinja/ninjaWizard.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

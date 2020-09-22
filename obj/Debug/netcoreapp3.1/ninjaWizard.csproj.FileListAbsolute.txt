@@ -1,0 +1,12 @@
+/Users/nhannguyen/Desktop/CSharpWizardNinja/obj/Debug/netcoreapp3.1/ninjaWizard.csprojAssemblyReference.cache
+/Users/nhannguyen/Desktop/CSharpWizardNinja/obj/Debug/netcoreapp3.1/ninjaWizard.AssemblyInfoInputs.cache
+/Users/nhannguyen/Desktop/CSharpWizardNinja/obj/Debug/netcoreapp3.1/ninjaWizard.AssemblyInfo.cs
+/Users/nhannguyen/Desktop/CSharpWizardNinja/obj/Debug/netcoreapp3.1/ninjaWizard.csproj.CoreCompileInputs.cache
+/Users/nhannguyen/Desktop/CSharpWizardNinja/bin/Debug/netcoreapp3.1/ninjaWizard.deps.json
+/Users/nhannguyen/Desktop/CSharpWizardNinja/bin/Debug/netcoreapp3.1/ninjaWizard.runtimeconfig.json
+/Users/nhannguyen/Desktop/CSharpWizardNinja/bin/Debug/netcoreapp3.1/ninjaWizard.runtimeconfig.dev.json
+/Users/nhannguyen/Desktop/CSharpWizardNinja/bin/Debug/netcoreapp3.1/ninjaWizard.dll
+/Users/nhannguyen/Desktop/CSharpWizardNinja/bin/Debug/netcoreapp3.1/ninjaWizard.pdb
+/Users/nhannguyen/Desktop/CSharpWizardNinja/obj/Debug/netcoreapp3.1/ninjaWizard.dll
+/Users/nhannguyen/Desktop/CSharpWizardNinja/obj/Debug/netcoreapp3.1/ninjaWizard.pdb
+/Users/nhannguyen/Desktop/CSharpWizardNinja/obj/Debug/netcoreapp3.1/ninjaWizard.genruntimeconfig.cache

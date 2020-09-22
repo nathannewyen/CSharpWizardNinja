@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nhannguyen/Desktop/ninjaWizard/ninjaWizard.csproj",
+      "projectUniqueName": "/Users/nhannguyen/Desktop/CSharpWizardNinja/ninjaWizard.csproj",
       "projectName": "ninjaWizard",
-      "projectPath": "/Users/nhannguyen/Desktop/ninjaWizard/ninjaWizard.csproj",
+      "projectPath": "/Users/nhannguyen/Desktop/CSharpWizardNinja/ninjaWizard.csproj",
       "packagesPath": "/Users/nhannguyen/.nuget/packages/",
-      "outputPath": "/Users/nhannguyen/Desktop/ninjaWizard/obj/",
+      "outputPath": "/Users/nhannguyen/Desktop/CSharpWizardNinja/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nhannguyen/.nuget/NuGet/NuGet.Config"
@@ -56,7 +56,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
       }
     }
   }
